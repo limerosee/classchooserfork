@@ -1,4 +1,4 @@
-# classchooserfork
+# ClassChooserFork
 fork of ClassChooser by Gvoper
 ---
 fork of ClassChooser by Gvoper 
